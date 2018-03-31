@@ -1,0 +1,15 @@
+public enum Levels {
+    PRESCHOOL1,
+    PRESCHOOL2,
+    PRESCHOOL3,
+    LEVEL1,
+    LEVEL2,
+    LEVEL3,
+    LEVEL4A,
+    LEVEL4B,
+    LEVEL5,
+    LEVEL6A,
+    LEVEL6B,
+    STROKE_CLINIC,
+    JUNIOR_LIFEGUARDING,
+}
